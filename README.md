@@ -1,5 +1,28 @@
 # 🩺 Heart Disease Prediction – The Functionals Capstone Project
 
+## Team Members
+
+Chukwu Ezinne Maryann DS/2025/TC3/067
+
+Akintobi Toluwanimi Deborah DS/2025/TC3/223
+
+Yakubu Kamarudeen Omeiza DS/2025/TC3/120
+
+Frank Victor Edet DS/2025/TC3/076
+
+Temitayo Odetola DS/2025/TC3/219
+
+Yusuf Salma-Yusuf Omowunmi DS/2025/TC3/195
+
+Ijeoma Blessing Enumah DS/2025/TC3/093
+
+Irrinus Fonyuy Kintung DS/2025/TC3/097
+
+Stephen Aidoo DS/2025/TC3/210
+
+Abdulhafis Gbenga Abdulraheem DS/2025/TC3/002
+
+
 ## 📘 Overview
 
 This project was developed as part of the TechCrush Data Science Program capstone. Our goal was to apply machine learning techniques to predict the likelihood of heart disease using patient health indicators such as age, cholesterol level, resting blood pressure, and chest pain type.
