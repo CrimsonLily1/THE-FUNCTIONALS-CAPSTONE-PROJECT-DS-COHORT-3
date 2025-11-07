@@ -1,4 +1,4 @@
-# 🩺 Heart Disease Prediction – Capstone Project
+# 🩺 Heart Disease Prediction – The Functionals Capstone Project
 
 ## 📘 Overview
 
