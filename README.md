@@ -19,13 +19,7 @@ Data Cleaning and Exploration – Understanding the dataset and preparing it for
 Feature Preparation and Scaling – Handling features, encoding (where needed), and standardizing data.
 
 Model Building and Evaluation – Training multiple classification models:
-Logistic Regression
-
-Decision Tree Classifier
-
-Random Forest Classifier
-
-XGBoost Classifier
+Logistic Regression, Decision Tree Classifier, Random Forest Classifier, XGBoost Classifier
 
 
 Visualization and Insights – Comparing model performances using accuracy, precision, recall, and F1-score to identify the best-performing model.
