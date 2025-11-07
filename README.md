@@ -1,5 +1,6 @@
-## 🩺 Heart Disease Prediction – Capstone Project
-📘 Overview
+# 🩺 Heart Disease Prediction – Capstone Project
+
+## 📘 Overview
 
 This project was developed as part of the TechCrush Data Science Program capstone. Our goal was to apply machine learning techniques to predict the likelihood of heart disease using patient health indicators such as age, cholesterol level, resting blood pressure, and chest pain type.
 The project demonstrates the full data science workflow — from data preprocessing to model training, evaluation, and performance comparison.
@@ -19,23 +20,32 @@ Feature Preparation and Scaling – Handling features, encoding (where needed), 
 
 Model Building and Evaluation – Training multiple classification models:
 Logistic Regression
+
 Decision Tree Classifier
+
 Random Forest Classifier
+
 XGBoost Classifier
+
 
 Visualization and Insights – Comparing model performances using accuracy, precision, recall, and F1-score to identify the best-performing model.
 
+
 ## ⚙️ Tools and Libraries Used
 Python
+
 Pandas, NumPy
+
 Matplotlib, Seaborn
+
 Scikit-learn
+
 XGBoost
+
 
 ## 🧾 Results
 
 Among all the models trained, the XGBoost Classifier achieved the highest of all metrics, making it the best-performing model for this dataset.
-
 
 
 ## 💡 Key Takeaway
